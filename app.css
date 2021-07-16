@@ -1,0 +1,28 @@
+.main {
+    margin-top: 10%;
+  }
+  .mainClick {
+    margin-top: 5%;
+  }
+  body {
+    font-family: "Roboto", sans-serif;
+    background-image: url("https://assets.gadgets360cdn.com/img/crypto/dogecoin-og-logo.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color: #314946;
+    padding: 20;
+  }
+  
+  h3 {
+    color: rgb(0, 113, 128);
+  }
+  
+  h1 {
+    letter-spacing: 10px;
+    color: #213561;
+    width: 500px;
+    border: 15px solid rgb(0, 109, 128);
+    padding: 0 0 10px;
+    margin: 20px;
+  }
